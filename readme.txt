@@ -1,2 +1,0 @@
-khong hello nua
-
